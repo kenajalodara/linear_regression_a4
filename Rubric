@@ -1,0 +1,13 @@
+Extensions to Linear Regression 
+Learning Goal: Describe the bias-variance tradeoff in machine learning,
+               Discuss how bias and variance are related to over and underfitting
+               Use Lasso and Ridge regression with sci-kit learn
+               Compare and contrast Lasso, Ridge and non-regularized regression
+               Use feature selection to obtain the optimal subset of features in a dataset
+
+Question Number	Question	                                                                                    Point Value
+1	 Use LinearRegression to predict the sales use cross_val_score to interpret the results.                        1.5
+         Why cross_val score for testing is increasing/ decreasing. 	            
+2	 Is it a Bias or Variance problem? Explain	                                                                0.5
+3	 What method would you use to solve overfitting / underfitting problem?                                          2
+4        Use Regularization, Which is better Lasso / Ridge / Simple Linear Regression.                                   1
