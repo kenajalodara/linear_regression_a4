@@ -8,6 +8,6 @@ Learning Goal: Describe the bias-variance tradeoff in machine learning,
 Question Number	Question	                                                                                    Point Value
 1	 Use LinearRegression to predict the sales use cross_val_score to interpret the results.                        1.5
          Why cross_val score for testing is increasing/ decreasing. 	            
-2	 Is it a Bias or Variance problem? Explain	                                                                0.5
-3	 What method would you use to solve overfitting / underfitting problem?                                          2
-4        Use Regularization, Which is better Lasso / Ridge / Simple Linear Regression.                                   1
+2	  Is it a overfitting or underfitting? what is bias -variance trade off?	                                0.5
+3	 What method would you use to solve overfitting / underfitting problem? Use One Method?                            2
+4        Use Regularization, Which is better Lasso / Ridge / Simple Linear Regression.                               1
